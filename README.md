@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 Hi, I’m Darsh Patel
 
-I’m currently pursuing a **B.Tech in Computer Science and Engineering** at **The Maharaja Sayajirao University of Baroda**.
+I’m currently pursuing a **B.E. in Computer Science and Engineering** at **The Maharaja Sayajirao University of Baroda**.
 
 - 💻 **Interests:** Backend Development (**Node.js**, **Python**, **.NET**) and **AI/ML** using **Python**, **TensorFlow**, and **scikit-learn**.  
 - 📚 **Currently Learning:** Computer Vision with Deep Learning.
